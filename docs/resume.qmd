@@ -1,0 +1,23 @@
+---
+title: "Resume"
+format: 
+  html:
+    embed-resources: true
+---
+**Welcome to my resume page!** 
+
+Below is an overview of my professional background, skills, and experience. 
+
+I am a highly motivated professional with experience in software development, data analysis, and project management. My skills include proficiency in languages such as Python, JavaScript, and SQL, as well as experience working with frameworks like React and Django. I have a strong background in problem-solving and enjoy tackling complex technical challenges.
+
+Below, you can view my detailed resume and explore the projects I have worked on throughout my career or download it for your reference.
+
+## View Resume
+
+![Manesh Resume](ManeshResumes.pdf){height="1000px"}
+
+## Download Resume
+
+If you'd like to download my resume, click the link below:
+
+[Download Resume (PDF)](ManeshResumes.pdf)

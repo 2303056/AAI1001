@@ -1,11 +1,33 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Welcome to My Personal Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Manesh! Welcome to my personal website, where you can learn more about me, view my resume, and read my personal reflection. I am passionate about everything, and this site showcases my work and personal growth.
 
-```{r}
-1 + 1
-```
+## About Me
+
+On the **[About Me page](about.html)**, you can learn more about my background, interests, and experiences. I’ve been studying IT for 5 years, and I specialize in everything.
+
+## My Resume
+
+Visit my **[Resume page](resume.html)** to download or view my resume, which includes details about my professional journey, education, and skills.
+
+## Personal Reflection
+
+In my **[Reflection page](reflection.html)**, I share my thoughts on using GenAI to help me in creating this website
+
+## Check Out My Photo and Video
+
+Below, you’ll find a little more about me through a photo and a short video introduction.
+
+### My Photo
+
+![My Photo](crista.jpg) <!-- Update the path to your image -->
+
+### Introduction Video
+
+Here’s a video where I talk a bit more about myself and my work:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nOG-CaENIEY" frameborder="0" allowfullscreen></iframe>

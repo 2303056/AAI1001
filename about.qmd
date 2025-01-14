@@ -1,9 +1,25 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi! I'm Manesh, and welcome to my About Me page. I am passionate about everything and have dedicated myself to pursuing life
 
-```{r}
-1 + 1
-```
+## Hobbies
+
+Here are a few things I enjoy doing in my spare time:
+
+- **Reading**: I love exploring books on various subjects, especially in the genres of non-fiction.
+- **Traveling**: I enjoy discovering new cultures and have visited multiple countries before.
+- **Photography**: Capturing moments through my camera lens is something I find both relaxing and inspiring.
+- **Coding**: I spend a lot of my free time developing new projects and learning about new programming languages.
+- **Music**: Whether it's listening to music or playing instruments, I find music to be a great outlet for creativity.
+
+## Schools and Education
+
+I’ve been fortunate to attend some great institutions that have helped me develop both academically and personally. Here’s a summary of my educational background:
+
+| School Name          | Degree                | Graduation Year |
+|----------------------|-----------------------|-----------------|
+| Singapore Institute of Technology  | Bachelor of Science   | 2026            |
+| Temasek Polytechnic | Diploma       | 2023            |
+| Swiss Cottage Secondary | O Levels   | 2017            |

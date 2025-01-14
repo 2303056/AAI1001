@@ -2,8 +2,267 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Manesh! Welcome to my personal website, where you can learn more about me, view my resume, and read my personal reflection. I am passionate about everything, and this site showcases my work and personal growth.\n\n\nOn the About Me page, you can learn more about my background, interests, and experiences. I’ve been studying IT for 5 years, and I specialize in everything.\n\n\n\nVisit my Resume page to download or view my resume, which includes details about my professional journey, education, and skills.\n\n\n\nIn my Reflection page, I share my thoughts on using GenAI to help me in creating this website\n\n\n\nBelow, you’ll find a little more about me through a photo and a short video introduction.\n\n\n \n\n\n\nHere’s a video where I talk a bit more about myself and my work:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi! I’m Manesh, and welcome to my About Me page. I am passionate about everything and have dedicated myself to pursuing life"
+  },
+  {
+    "objectID": "index.html#my-latest-video",
+    "href": "index.html#my-latest-video",
+    "title": "Home",
+    "section": "",
+    "text": "You can check out my latest video below:\n\n\n\nVideo"
+  },
+  {
+    "objectID": "football.html",
+    "href": "football.html",
+    "title": "Football",
+    "section": "",
+    "text": "My Resume\nWelcome to my resume page! Below, you can view my resume and also download a copy."
+  },
+  {
+    "objectID": "football.html#view-resume",
+    "href": "football.html#view-resume",
+    "title": "football",
+    "section": "",
+    "text": "You can view my resume directly in the browser:"
+  },
+  {
+    "objectID": "football.html#download-resume",
+    "href": "football.html#download-resume",
+    "title": "football",
+    "section": "",
+    "text": "If you’d like to download my resume, click the link below:\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Welcome to my resume page!\nBelow is an overview of my professional background, skills, and experience.\nI am a highly motivated professional with experience in software development, data analysis, and project management. My skills include proficiency in languages such as Python, JavaScript, and SQL, as well as experience working with frameworks like React and Django. I have a strong background in problem-solving and enjoy tackling complex technical challenges.\nBelow, you can view my detailed resume and explore the projects I have worked on throughout my career or download it for your reference."
+  },
+  {
+    "objectID": "Resume.html#view-resume",
+    "href": "Resume.html#view-resume",
+    "title": "Resume",
+    "section": "View Resume",
+    "text": "View Resume\n\n\n\nManesh Resume"
+  },
+  {
+    "objectID": "Resume.html#download-resume",
+    "href": "Resume.html#download-resume",
+    "title": "Resume",
+    "section": "Download Resume",
+    "text": "Download Resume\nIf you’d like to download my resume, click the link below:\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "Resume.html#why-is-the-titanic-famous",
+    "href": "Resume.html#why-is-the-titanic-famous",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Why is the Titanic famous?",
+    "text": "Why is the Titanic famous?\nThe Titanic is famous for many reasons, these include\n\nShe was the largest ship in the world.\nShe sank on her maiden voyage.\nHer captain received many warnings of ice on the route but did not reduce speed.\nThere were not enough lifeboats for all the people on board.\nMany crew and paying passengers lost their lives but the man that effectively owned the Titanic somehow survived.\nWith millionaires as well as people in dire poverty there was a diverse mix of passengers and crew and we have been left many fascinating stories of their lives.\n\nSource: Encyclopedia Titanica"
+  },
+  {
+    "objectID": "Resume.html#dimensions-of-the-titanic",
+    "href": "Resume.html#dimensions-of-the-titanic",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Dimensions of the Titanic",
+    "text": "Dimensions of the Titanic\nLength: 269.1 m Beam: 28.2 m Height: 53.3 m Draught: 10.5 m Depth: 19.7 m\n\n\n\nTitanic vs Plane"
+  },
+  {
+    "objectID": "Resume.html#survival-rate",
+    "href": "Resume.html#survival-rate",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Survival Rate",
+    "text": "Survival Rate\nAccording to Encyclopedia Titanica, the survival rate of the passengers was as follows:\n\n\n\nPassengers\nSurvival Rate\n\n\n\n\n1-st class:\n201/324 = 62.04%\n\n\n2-nd class:\n118/284 = 41.55%\n\n\n3-rd class:\n181/709 = 25.53%\n\n\nCrew:\n212/891 = 23.79%"
+  },
+  {
+    "objectID": "Resume.html#was-survival-dependent-on-class",
+    "href": "Resume.html#was-survival-dependent-on-class",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Was Survival Dependent on Class?",
+    "text": "Was Survival Dependent on Class?\nI can never understand why God would have spared a poor Finnish girl when all those rich people drowned.\nAnna Sofia Turja (3rd-class passenger)\nThis quote raises the question: Were 1st-lass passengers more likely to survive than 3rd-class passengers? The data suggests that they were. The survival rate of 1st-class passengers was 62.04%, while the survival rate of 3rd-class passengers was only 25.53%. Crew members were even less likely to survive than 3rd-class passengers. The reason for this is that the crew members were responsible for ensuring the safety of the passengers and were therefore less likely to be able to save themselves in the event of an emergency. For passengers, the more luxurious the class, the more likely they were to survive, and the reason for this is that the 1st-class cabins were located closer to the lifeboats, making it easier for 1st-class passengers to reach them in time.\n\n\n\nPhoto taken before the Titanic. Image from Encyclopedia Titanica\n\n\n\n\n\nAnna-Turja\n\n\nData source: Encyclopedia Titanica"
+  },
+  {
+    "objectID": "Resume.html#the-titanic-movie-1997",
+    "href": "Resume.html#the-titanic-movie-1997",
+    "title": "Plain Text Version of the Titanic",
+    "section": "The Titanic Movie (1997)",
+    "text": "The Titanic Movie (1997)\n\n\n\nTitanic 1997\n\n\nThe Titanic movie was released in 1997 and was directed by James Cameron. The movie was a huge success and won 11 Academy Awards. The movie tells the story of the Titanic disaster and the love story between Jack and Rose, two passengers on the ship. The movie was praised for its special effects and its attention to detail in recreating the ship and the disaster. The movie was also criticized for its historical inaccuracies and its portrayal of the events of the disaster. The movie was a box office success and became the highest-grossing film of all time at the time of its release. The movie was re-released in 3D in 2012 to coincide with the 100th anniversary of the Titanic disaster."
+  },
+  {
+    "objectID": "Resume.html#summary",
+    "href": "Resume.html#summary",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Summary",
+    "text": "Summary\n\nThe Titanic was one of the largest ships of its time.\nShe sank during its maiden voyage.\nThe more luxurious the class of the passengers, the more likely they were to survive.\nCrew members were even less likely to survive than 3rd-class passengers."
+  },
+  {
+    "objectID": "titanic_txt - Copy.html",
+    "href": "titanic_txt - Copy.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "As I reflect on the process of creating this website, I realize how transformative it has been to use Generative AI (GenAI) as a tool throughout the journey. When I started building this site, I had a basic vision of what I wanted to showcase—my background, resume, and a bit about my personal life. However, the assistance and capabilities provided by Generative AI have not only made the process faster but have also significantly enhanced the quality and creativity of the content.\n\n\nInitially, my understanding of AI was limited to its ability to perform tasks like generating text or responding to prompts. However, when I began working on this project, I quickly discovered how much GenAI could assist in organizing my thoughts, creating engaging content, and even improving the design structure. From writing descriptions to generating the HTML code for embedding elements like my resume or video, GenAI acted as both a creative collaborator and a technical assistant.\n\n\nOne of the most noticeable ways GenAI helped was in the creation of content. Writing the descriptions for my “About Me” and “Resume” pages was much easier with the help of GenAI, as it provided suggestions, refined my writing, and made the text sound more professional. The tool helped me clarify my thoughts and express them more clearly, which was especially helpful when describing my experiences, skills, and aspirations.\nFor example, when drafting the “Reflection” page, I could use GenAI to draft the initial content and then refine it, adding my personal touch. It was like having an assistant that provided creative prompts but allowed me to mold the ideas into something meaningful and unique.\n\n\n\nOn the technical side, GenAI was incredibly helpful in generating the right code snippets, whether it was for embedding a PDF, creating tables, or adjusting CSS. While I do have some knowledge of web development, the AI allowed me to quickly test different options, troubleshoot errors, and refine my code without having to manually search for solutions.\nUsing GenAI also made the entire process more efficient. Tasks that might have taken me hours, such as formatting tables or figuring out how to embed multimedia, were simplified, allowing me to focus more on the content and less on the technical challenges.\n\n\n\nHowever, as much as Generative AI has been a useful tool, it is important to reflect on the ethical considerations and limitations. For instance, GenAI generates content based on existing knowledge and patterns, which means there is a risk of reinforcing biases or producing content that lacks deep originality. It is crucial to critically evaluate the suggestions and content generated by the AI and ensure that it aligns with my authentic voice and values.\nAnother limitation I encountered was the AI’s occasional lack of understanding of nuanced, highly specific queries. While the AI was effective for general content creation and coding assistance, it struggled when I asked for highly personalized insights or guidance specific to my unique experiences. This reminded me that, while AI can be a powerful tool, human judgment and creativity remain essential to achieving authenticity.\n\n\n\n\nIn the end, using Generative AI for this website has been a deeply enriching experience, but it also reinforced a valuable lesson: the best results come from a blend of human ingenuity and machine assistance. The AI provided the structure and technical framework, but my personal input, creativity, and judgment made the website truly mine.\nAs I move forward with my personal and professional projects, I see AI as an indispensable tool that will continue to support my work. However, I also recognize the importance of balancing its capabilities with my own creativity and critical thinking.\n\n\n\nIn conclusion, building this website with the help of Generative AI has been an exciting and thought-provoking experience. The process has not only made me appreciate the capabilities of AI but also deepened my understanding of its potential impact on creativity, efficiency, and problem-solving. As AI technology continues to evolve, I look forward to exploring more ways to integrate it into my work while ensuring that I maintain a strong sense of authenticity and personal expression."
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#why-is-the-titanic-famous",
+    "href": "titanic_txt - Copy.html#why-is-the-titanic-famous",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Why is the Titanic famous?",
+    "text": "Why is the Titanic famous?\nThe Titanic is famous for many reasons, these include\n\nShe was the largest ship in the world.\nShe sank on her maiden voyage.\nHer captain received many warnings of ice on the route but did not reduce speed.\nThere were not enough lifeboats for all the people on board.\nMany crew and paying passengers lost their lives but the man that effectively owned the Titanic somehow survived.\nWith millionaires as well as people in dire poverty there was a diverse mix of passengers and crew and we have been left many fascinating stories of their lives.\n\nSource: Encyclopedia Titanica"
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#dimensions-of-the-titanic",
+    "href": "titanic_txt - Copy.html#dimensions-of-the-titanic",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Dimensions of the Titanic",
+    "text": "Dimensions of the Titanic\nLength: 269.1 m Beam: 28.2 m Height: 53.3 m Draught: 10.5 m Depth: 19.7 m\n\n\n\nTitanic vs Plane"
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#survival-rate",
+    "href": "titanic_txt - Copy.html#survival-rate",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Survival Rate",
+    "text": "Survival Rate\nAccording to Encyclopedia Titanica, the survival rate of the passengers was as follows:\n\n\n\nPassengers\nSurvival Rate\n\n\n\n\n1-st class:\n201/324 = 62.04%\n\n\n2-nd class:\n118/284 = 41.55%\n\n\n3-rd class:\n181/709 = 25.53%\n\n\nCrew:\n212/891 = 23.79%"
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#was-survival-dependent-on-class",
+    "href": "titanic_txt - Copy.html#was-survival-dependent-on-class",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Was Survival Dependent on Class?",
+    "text": "Was Survival Dependent on Class?\nI can never understand why God would have spared a poor Finnish girl when all those rich people drowned.\nAnna Sofia Turja (3rd-class passenger)\nThis quote raises the question: Were 1st-lass passengers more likely to survive than 3rd-class passengers? The data suggests that they were. The survival rate of 1st-class passengers was 62.04%, while the survival rate of 3rd-class passengers was only 25.53%. Crew members were even less likely to survive than 3rd-class passengers. The reason for this is that the crew members were responsible for ensuring the safety of the passengers and were therefore less likely to be able to save themselves in the event of an emergency. For passengers, the more luxurious the class, the more likely they were to survive, and the reason for this is that the 1st-class cabins were located closer to the lifeboats, making it easier for 1st-class passengers to reach them in time.\n\n\n\nPhoto taken before the Titanic. Image from Encyclopedia Titanica\n\n\n\n\n\nAnna-Turja\n\n\nData source: Encyclopedia Titanica"
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#the-titanic-movie-1997",
+    "href": "titanic_txt - Copy.html#the-titanic-movie-1997",
+    "title": "Plain Text Version of the Titanic",
+    "section": "The Titanic Movie (1997)",
+    "text": "The Titanic Movie (1997)\n\n\n\nTitanic 1997\n\n\nThe Titanic movie was released in 1997 and was directed by James Cameron. The movie was a huge success and won 11 Academy Awards. The movie tells the story of the Titanic disaster and the love story between Jack and Rose, two passengers on the ship. The movie was praised for its special effects and its attention to detail in recreating the ship and the disaster. The movie was also criticized for its historical inaccuracies and its portrayal of the events of the disaster. The movie was a box office success and became the highest-grossing film of all time at the time of its release. The movie was re-released in 3D in 2012 to coincide with the 100th anniversary of the Titanic disaster."
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#summary",
+    "href": "titanic_txt - Copy.html#summary",
+    "title": "Plain Text Version of the Titanic",
+    "section": "Summary",
+    "text": "Summary\n\nThe Titanic was one of the largest ships of its time.\nShe sank during its maiden voyage.\nThe more luxurious the class of the passengers, the more likely they were to survive.\nCrew members were even less likely to survive than 3rd-class passengers."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "On the About Me page, you can learn more about my background, interests, and experiences. I’ve been studying IT for 5 years, and I specialize in everything."
+  },
+  {
+    "objectID": "index.html#my-resume",
+    "href": "index.html#my-resume",
+    "title": "Home",
+    "section": "",
+    "text": "Visit my Resume page to download or view my resume, which includes details about my professional journey, education, and skills."
+  },
+  {
+    "objectID": "index.html#personal-reflection",
+    "href": "index.html#personal-reflection",
+    "title": "Home",
+    "section": "",
+    "text": "In my Reflection page, I share my thoughts on using GenAI to help me in creating this website"
+  },
+  {
+    "objectID": "index.html#check-out-my-photo-and-video",
+    "href": "index.html#check-out-my-photo-and-video",
+    "title": "Home",
+    "section": "",
+    "text": "Below, you’ll find a little more about me through a photo and a short video introduction.\n\n\n \n\n\n\nHere’s a video where I talk a bit more about myself and my work:"
+  },
+  {
+    "objectID": "docs/resume.html",
+    "href": "docs/resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Welcome to my resume page!\nBelow is an overview of my professional background, skills, and experience.\nI am a highly motivated professional with experience in software development, data analysis, and project management. My skills include proficiency in languages such as Python, JavaScript, and SQL, as well as experience working with frameworks like React and Django. I have a strong background in problem-solving and enjoy tackling complex technical challenges.\nBelow, you can view my detailed resume and explore the projects I have worked on throughout my career or download it for your reference."
+  },
+  {
+    "objectID": "docs/resume.html#view-resume",
+    "href": "docs/resume.html#view-resume",
+    "title": "Resume",
+    "section": "View Resume",
+    "text": "View Resume\n\n\n\nManesh Resume"
+  },
+  {
+    "objectID": "docs/resume.html#download-resume",
+    "href": "docs/resume.html#download-resume",
+    "title": "Resume",
+    "section": "Download Resume",
+    "text": "Download Resume\nIf you’d like to download my resume, click the link below:\nDownload Resume (PDF)"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\nHere are a few things I enjoy doing in my spare time:\n\nReading: I love exploring books on various subjects, especially in the genres of non-fiction.\nTraveling: I enjoy discovering new cultures and have visited multiple countries before.\nPhotography: Capturing moments through my camera lens is something I find both relaxing and inspiring.\nCoding: I spend a lot of my free time developing new projects and learning about new programming languages.\nMusic: Whether it’s listening to music or playing instruments, I find music to be a great outlet for creativity."
+  },
+  {
+    "objectID": "about.html#schools-and-education",
+    "href": "about.html#schools-and-education",
+    "title": "About Me",
+    "section": "Schools and Education",
+    "text": "Schools and Education\nI’ve been fortunate to attend some great institutions that have helped me develop both academically and personally. Here’s a summary of my educational background:\n\n\n\n\n\n\n\n\nSchool Name\nDegree\nGraduation Year\n\n\n\n\nSingapore Institute of Technology\nBachelor of Science\n2026\n\n\nTemasek Polytechnic\nDiploma\n2023\n\n\nSwiss Cottage Secondary\nO Levels\n2017"
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#the-role-of-generative-ai",
+    "href": "titanic_txt - Copy.html#the-role-of-generative-ai",
+    "title": "Reflection",
+    "section": "",
+    "text": "Initially, my understanding of AI was limited to its ability to perform tasks like generating text or responding to prompts. However, when I began working on this project, I quickly discovered how much GenAI could assist in organizing my thoughts, creating engaging content, and even improving the design structure. From writing descriptions to generating the HTML code for embedding elements like my resume or video, GenAI acted as both a creative collaborator and a technical assistant.\n\n\nOne of the most noticeable ways GenAI helped was in the creation of content. Writing the descriptions for my “About Me” and “Resume” pages was much easier with the help of GenAI, as it provided suggestions, refined my writing, and made the text sound more professional. The tool helped me clarify my thoughts and express them more clearly, which was especially helpful when describing my experiences, skills, and aspirations.\nFor example, when drafting the “Reflection” page, I could use GenAI to draft the initial content and then refine it, adding my personal touch. It was like having an assistant that provided creative prompts but allowed me to mold the ideas into something meaningful and unique.\n\n\n\nOn the technical side, GenAI was incredibly helpful in generating the right code snippets, whether it was for embedding a PDF, creating tables, or adjusting CSS. While I do have some knowledge of web development, the AI allowed me to quickly test different options, troubleshoot errors, and refine my code without having to manually search for solutions.\nUsing GenAI also made the entire process more efficient. Tasks that might have taken me hours, such as formatting tables or figuring out how to embed multimedia, were simplified, allowing me to focus more on the content and less on the technical challenges.\n\n\n\nHowever, as much as Generative AI has been a useful tool, it is important to reflect on the ethical considerations and limitations. For instance, GenAI generates content based on existing knowledge and patterns, which means there is a risk of reinforcing biases or producing content that lacks deep originality. It is crucial to critically evaluate the suggestions and content generated by the AI and ensure that it aligns with my authentic voice and values.\nAnother limitation I encountered was the AI’s occasional lack of understanding of nuanced, highly specific queries. While the AI was effective for general content creation and coding assistance, it struggled when I asked for highly personalized insights or guidance specific to my unique experiences. This reminded me that, while AI can be a powerful tool, human judgment and creativity remain essential to achieving authenticity."
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#a-blend-of-human-and-machine",
+    "href": "titanic_txt - Copy.html#a-blend-of-human-and-machine",
+    "title": "Reflection",
+    "section": "",
+    "text": "In the end, using Generative AI for this website has been a deeply enriching experience, but it also reinforced a valuable lesson: the best results come from a blend of human ingenuity and machine assistance. The AI provided the structure and technical framework, but my personal input, creativity, and judgment made the website truly mine.\nAs I move forward with my personal and professional projects, I see AI as an indispensable tool that will continue to support my work. However, I also recognize the importance of balancing its capabilities with my own creativity and critical thinking."
+  },
+  {
+    "objectID": "titanic_txt - Copy.html#conclusion",
+    "href": "titanic_txt - Copy.html#conclusion",
+    "title": "Reflection",
+    "section": "",
+    "text": "In conclusion, building this website with the help of Generative AI has been an exciting and thought-provoking experience. The process has not only made me appreciate the capabilities of AI but also deepened my understanding of its potential impact on creativity, efficiency, and problem-solving. As AI technology continues to evolve, I look forward to exploring more ways to integrate it into my work while ensuring that I maintain a strong sense of authenticity and personal expression."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "As I reflect on the process of creating this website, I realize how transformative it has been to use Generative AI (GenAI) as a tool throughout the journey. When I started building this site, I had a basic vision of what I wanted to showcase—my background, resume, and a bit about my personal life. However, the assistance and capabilities provided by Generative AI have not only made the process faster but have also significantly enhanced the quality and creativity of the content.\n\n\nInitially, my understanding of AI was limited to its ability to perform tasks like generating text or responding to prompts. However, when I began working on this project, I quickly discovered how much GenAI could assist in organizing my thoughts, creating engaging content, and even improving the design structure. From writing descriptions to generating the HTML code for embedding elements like my resume or video, GenAI acted as both a creative collaborator and a technical assistant.\n\n\nOne of the most noticeable ways GenAI helped was in the creation of content. Writing the descriptions for my “About Me” and “Resume” pages was much easier with the help of GenAI, as it provided suggestions, refined my writing, and made the text sound more professional. The tool helped me clarify my thoughts and express them more clearly, which was especially helpful when describing my experiences, skills, and aspirations.\nFor example, when drafting the “Reflection” page, I could use GenAI to draft the initial content and then refine it, adding my personal touch. It was like having an assistant that provided creative prompts but allowed me to mold the ideas into something meaningful and unique.\n\n\n\nOn the technical side, GenAI was incredibly helpful in generating the right code snippets, whether it was for embedding a PDF, creating tables, or adjusting CSS. While I do have some knowledge of web development, the AI allowed me to quickly test different options, troubleshoot errors, and refine my code without having to manually search for solutions.\nUsing GenAI also made the entire process more efficient. Tasks that might have taken me hours, such as formatting tables or figuring out how to embed multimedia, were simplified, allowing me to focus more on the content and less on the technical challenges.\n\n\n\nHowever, as much as Generative AI has been a useful tool, it is important to reflect on the ethical considerations and limitations. For instance, GenAI generates content based on existing knowledge and patterns, which means there is a risk of reinforcing biases or producing content that lacks deep originality. It is crucial to critically evaluate the suggestions and content generated by the AI and ensure that it aligns with my authentic voice and values.\nAnother limitation I encountered was the AI’s occasional lack of understanding of nuanced, highly specific queries. While the AI was effective for general content creation and coding assistance, it struggled when I asked for highly personalized insights or guidance specific to my unique experiences. This reminded me that, while AI can be a powerful tool, human judgment and creativity remain essential to achieving authenticity.\n\n\n\n\nIn the end, using Generative AI for this website has been a deeply enriching experience, but it also reinforced a valuable lesson: the best results come from a blend of human ingenuity and machine assistance. The AI provided the structure and technical framework, but my personal input, creativity, and judgment made the website truly mine.\nAs I move forward with my personal and professional projects, I see AI as an indispensable tool that will continue to support my work. However, I also recognize the importance of balancing its capabilities with my own creativity and critical thinking.\n\n\n\nIn conclusion, building this website with the help of Generative AI has been an exciting and thought-provoking experience. The process has not only made me appreciate the capabilities of AI but also deepened my understanding of its potential impact on creativity, efficiency, and problem-solving. As AI technology continues to evolve, I look forward to exploring more ways to integrate it into my work while ensuring that I maintain a strong sense of authenticity and personal expression."
+  },
+  {
+    "objectID": "Reflection.html#the-role-of-generative-ai",
+    "href": "Reflection.html#the-role-of-generative-ai",
+    "title": "Reflection",
+    "section": "",
+    "text": "Initially, my understanding of AI was limited to its ability to perform tasks like generating text or responding to prompts. However, when I began working on this project, I quickly discovered how much GenAI could assist in organizing my thoughts, creating engaging content, and even improving the design structure. From writing descriptions to generating the HTML code for embedding elements like my resume or video, GenAI acted as both a creative collaborator and a technical assistant.\n\n\nOne of the most noticeable ways GenAI helped was in the creation of content. Writing the descriptions for my “About Me” and “Resume” pages was much easier with the help of GenAI, as it provided suggestions, refined my writing, and made the text sound more professional. The tool helped me clarify my thoughts and express them more clearly, which was especially helpful when describing my experiences, skills, and aspirations.\nFor example, when drafting the “Reflection” page, I could use GenAI to draft the initial content and then refine it, adding my personal touch. It was like having an assistant that provided creative prompts but allowed me to mold the ideas into something meaningful and unique.\n\n\n\nOn the technical side, GenAI was incredibly helpful in generating the right code snippets, whether it was for embedding a PDF, creating tables, or adjusting CSS. While I do have some knowledge of web development, the AI allowed me to quickly test different options, troubleshoot errors, and refine my code without having to manually search for solutions.\nUsing GenAI also made the entire process more efficient. Tasks that might have taken me hours, such as formatting tables or figuring out how to embed multimedia, were simplified, allowing me to focus more on the content and less on the technical challenges.\n\n\n\nHowever, as much as Generative AI has been a useful tool, it is important to reflect on the ethical considerations and limitations. For instance, GenAI generates content based on existing knowledge and patterns, which means there is a risk of reinforcing biases or producing content that lacks deep originality. It is crucial to critically evaluate the suggestions and content generated by the AI and ensure that it aligns with my authentic voice and values.\nAnother limitation I encountered was the AI’s occasional lack of understanding of nuanced, highly specific queries. While the AI was effective for general content creation and coding assistance, it struggled when I asked for highly personalized insights or guidance specific to my unique experiences. This reminded me that, while AI can be a powerful tool, human judgment and creativity remain essential to achieving authenticity."
+  },
+  {
+    "objectID": "Reflection.html#a-blend-of-human-and-machine",
+    "href": "Reflection.html#a-blend-of-human-and-machine",
+    "title": "Reflection",
+    "section": "",
+    "text": "In the end, using Generative AI for this website has been a deeply enriching experience, but it also reinforced a valuable lesson: the best results come from a blend of human ingenuity and machine assistance. The AI provided the structure and technical framework, but my personal input, creativity, and judgment made the website truly mine.\nAs I move forward with my personal and professional projects, I see AI as an indispensable tool that will continue to support my work. However, I also recognize the importance of balancing its capabilities with my own creativity and critical thinking."
+  },
+  {
+    "objectID": "Reflection.html#conclusion",
+    "href": "Reflection.html#conclusion",
+    "title": "Reflection",
+    "section": "",
+    "text": "In conclusion, building this website with the help of Generative AI has been an exciting and thought-provoking experience. The process has not only made me appreciate the capabilities of AI but also deepened my understanding of its potential impact on creativity, efficiency, and problem-solving. As AI technology continues to evolve, I look forward to exploring more ways to integrate it into my work while ensuring that I maintain a strong sense of authenticity and personal expression."
   }
 ]

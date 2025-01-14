@@ -1,1 +1,27 @@
 /* css styles */
+
+
+/* Custom styles for your Quarto website */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: #333;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+
+
+/* Style the footer */
+footer {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}

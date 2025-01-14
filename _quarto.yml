@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "AAI1001 Lab 2"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Resume.qmd
+      - Reflection.qmd
 
 format:
   html:
